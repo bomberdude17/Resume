@@ -1,4 +1,6 @@
 Read Me: Economic data in last 10 years app
+INSTRUCTIONS:
+YOU HAVE TO RUN THE ECONEXECUTABLE BEFORE RUNNING THE ECON GADGET. ECON GADGET IS THE MAIN APP.
 
 I created this program to track the last 10 years of data in economics. So far I have only gotton Unemployment data but am confident in my ability to create more off of this start. I hope to one day complete this pet project of mine and include much more economic indicators but for now I have started with unemployment.
 This app should update not only who the presidents are, but also the data being correlated onto the graphs. It can be used anywhere so long as internet connection is available.
