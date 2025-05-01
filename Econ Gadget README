@@ -1,10 +1,13 @@
 Read Me: Economic data in last 10 years app
 WARNING:
-The executable file is not signed yet with an official certificate and therefore your computer will flag my application as unknown. If you would like to run my application you must first allow your computer to do so.
+The executable file is not signed yet with an official certificate and therefore your computer will flag my application as unknown. If you would like to run my application you must first allow your computer to do so. To do so you must first click the more options button in the pop up window, this will give you the ability to run my program
 
 INSTRUCTIONS:
-RUN ECONEXECUTABLE.EXE, A NEW TERMINAL WINDOW SHOULD APPEAR IF EVERYTHING RUNS SMOOTHLY.
-YOU MAY EXIT THE FIRST TERMINAL WINDOW ONCE THE PROGRAM TELLS YOU TOO. (Press ENTER here to close....) 
+Read warning above.
+Go to https://drive.google.com/file/d/11gzrekNMsovDJRRVLGNfLSBDZdHiKE4Q/view?usp=drive_link and download Econgadget.exe
+Rune Econgagdet.exe
+2 new windows should appear. 1 for the graph, 1 for the terminal. The terminal should display additional information.
+Close the Graph and Terminal windows to exit application.
 
 I created this program to track the last 10 years of data in economics. So far I have only gotton Unemployment data but am confident in my ability to create more off of this start. I hope to one day complete this pet project of mine and include much more economic indicators but for now I have started with unemployment.
 This app should update not only include who the presidents are, but also the data being correlated onto the graphs should match each presidents term. It can be used anywhere so long as internet connection is available.
