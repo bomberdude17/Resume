@@ -4,10 +4,10 @@ The executable file is not signed yet with an official certificate and therefore
 
 INSTRUCTIONS:
 Read warning above.
-Go to https://drive.google.com/file/d/11gzrekNMsovDJRRVLGNfLSBDZdHiKE4Q/view?usp=drive_link and download Econgadget.exe
-Rune Econgagdet.exe
-2 new windows should appear. 1 for the graph, 1 for the terminal. The terminal should display additional information.
+Go to https://drive.google.com/file/d/1X8opodpt9mclelQvO2ewWRcQmxuPIr_6/view?usp=drive_link
+Rune EcongagdetV2.exe
+3 new windows should appear. 2 for the graphs, 1 for the terminal. The terminal should display additional information.
 Close the Graph and Terminal windows to exit application.
 
-I created this program to track the last 10 years of data in economics. So far I have only gotton Unemployment data but am confident in my ability to create more off of this start. I hope to one day complete this pet project of mine and include much more economic indicators but for now I have started with unemployment.
-This app should update not only include who the presidents are, but also the data being correlated onto the graphs should match each presidents term. It can be used anywhere so long as internet connection is available.
+I created this program to track the last 10 years of data in economics. So far I have only gotton Unemployment and CPI data but am confident in my ability to create more off of this start. I hope to one day complete this pet project of mine and include much more economic indicators.
+This app should update not only who the presidents are, but also the data being correlated onto the graphs should match each presidents term. It can be used anywhere so long as internet connection is available.
